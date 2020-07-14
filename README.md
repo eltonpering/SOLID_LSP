@@ -1,4 +1,4 @@
-# SOLID_LSP
+# SOLID_LSP  - Liskov Substitution Principle
 SOLID CONCEPTS
 
 Uma classe base deve poder ser substituída pela sua classe derivada sem alteração no comportamento final.
